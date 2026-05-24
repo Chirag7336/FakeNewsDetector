@@ -1,3 +1,4 @@
+joblib
 git add requirements.txt
 git commit -m "Add joblib dependency"
 git push origin main
